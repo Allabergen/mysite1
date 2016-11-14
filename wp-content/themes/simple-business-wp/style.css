@@ -125,7 +125,7 @@ div.content h4, div.content h5, div.content h6 { margin-top: 20px; margin-bottom
 
 /* HR */
 
-div.content hr { margin:20px 0; border: none; height: 5px; background: url(images/hr_dots.png) repeat-x center top; }
+div.content hr { margin:20px 0; border: none; height: 5px; background: url(https://allabergen.github.io/mysite1/wp-content/themes/simple-business-wp/images/hr_dots.png) repeat-x center top; }
 
 
 /* BlockQuotes */
@@ -405,7 +405,7 @@ div.content .frontpage-post-content .meta{font-size:11px;font-style:italic;paddi
 
 /** CONTACT ROW **/
 
-.frontpage-contact{background: rgba(0, 0, 0, 0);background-image:url(assets/images/overlay.png);padding:120px 0 100px;}
+.frontpage-contact{background: rgba(0, 0, 0, 0);background-image:url(https://allabergen.github.io/mysite1/wp-content/themes/simple-business-wp/assets/images/overlay.png);padding:120px 0 100px;}
 .frontpage-contact .contact-title{text-align:center;text-transform: uppercase;margin-top:0px;margin-bottom:10px;}
 .frontpage-contact .contact-sub-title{text-align:center; margin-bottom:30px;}
 .frontpage-contact .bg-danger{padding:20px;text-align:center;border:1px solid red;margin-bottom:30px;font-size:20px;}

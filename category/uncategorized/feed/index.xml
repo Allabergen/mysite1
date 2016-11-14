@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Nurorda International School Oskemen</title>
+	<atom:link href="https://allabergen.github.io/mysite1/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://allabergen.github.io/mysite1</link>
+	<description>Nurorda International School Oskemen</description>
+	<lastBuildDate>Sun, 13 Nov 2016 21:05:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+
+<image>
+	<url>https://allabergen.github.io/mysite1/wp-content/uploads/2016/11/cropped-d23a85f0999d027e9ed3aa0a580cd198_400x400-32x32.jpeg</url>
+	<title>Uncategorized &#8211; Nurorda International School Oskemen</title>
+	<link>https://allabergen.github.io/mysite1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>«Спасибо, книга первая &#8211; букварь!»</title>
+		<link>https://allabergen.github.io/mysite1/2016/11/13/hello-world/</link>
+		<comments>https://allabergen.github.io/mysite1/2016/11/13/hello-world/#respond</comments>
+		<pubDate>Sun, 13 Nov 2016 19:39:02 +0000</pubDate>
+		<dc:creator><![CDATA[allabergenmysite1]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://allabergen.github.io/mysite1/?p=1</guid>
+		<description><![CDATA[«Спасибо, книга первая &#8211; букварь!» Цели: В увлекательной игровой форме способствовать повторению и систематизации знаний учащихся,полученных в процессе работы по курсу «Обучение грамоте». Поддерживать у учащихся интерес к знаниям Формировать]]></description>
+				<content:encoded><![CDATA[<p>«Спасибо, книга первая &#8211; букварь!»</p>
+<p>Цели:</p>
+<ol>
+<li>В увлекательной игровой форме способствовать повторению и систематизации знаний учащихся,полученных в процессе работы по курсу «Обучение грамоте».<br />
+Поддерживать у учащихся интерес к знаниям</li>
+<li>Формировать умение общаться, вырабатывать навыки совместного труда, развивать творческие способности учащихся</li>
+<li>Способствовать воспитанию положительного отношения к чтению, уважительного отношения к одноклассникам и родителям</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://allabergen.github.io/mysite1/2016/11/13/hello-world/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
